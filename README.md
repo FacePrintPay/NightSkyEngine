@@ -1,4 +1,4 @@
-# NightSkyEngine
+# NightSkyEngine4SlaMAR
 
 Night Sky Engine is a free and open source fighting game framework made in Unreal Engine 5. It is designed to be powerful yet easy to learn, and can be used to make 2D and 2.5D fighting games.
 

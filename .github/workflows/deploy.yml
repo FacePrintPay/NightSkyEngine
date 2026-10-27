@@ -1,0 +1,24 @@
+name: Deploy
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  ci:
+    uses: ./.github/workflows/ci.yml
+
+  deploy_staging:
+    needs: ci
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - run: echo "Deploy to staging"
+
+  deploy_production:
+    needs: deploy_staging
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - run: echo "Deploy to production"

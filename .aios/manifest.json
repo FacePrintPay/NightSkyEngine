@@ -1,0 +1,17 @@
+{
+  "project": "nightskyengine",
+  "tagline": "AI OS runtime",
+  "ai_os": true,
+  "layers": {
+    "ui": ["TypeScript", "HTML", "CSS"],
+    "orchestration": ["Python", "Agent loops", "Memory", "Model routing"],
+    "system_engine": ["C++", "Rust", "Vector DB", "LLM runtime"],
+    "kernel_core": ["C", "Assembly", "HAL", "MMU"]
+  },
+  "agents": [
+    "Security controls",
+    "Memory orchestration",
+    "Tool routing",
+    "Governed execution"
+  ]
+}

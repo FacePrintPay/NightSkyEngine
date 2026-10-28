@@ -285,3 +285,5 @@ By running synctest on developer systems continuously when writing game code, yo
 ## Where to Go from Here
 
 This document describes the most basic features of GGPO.  To learn more, I recommend starting with reading the comments in the `ggponet.h` header and just diving into the code.  Good luck!
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=DeveloperGuide.md

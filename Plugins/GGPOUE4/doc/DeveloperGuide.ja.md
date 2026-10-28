@@ -285,3 +285,5 @@ GGPOはロールバック中に、advance frameコールバックを何度も呼
 ## さらに詳しく知りたい方は
 
 このドキュメントではGGPOの基本的な機能について紹介しました。さらに知りたい方は、`ggponet.h`ヘッダーにあるコメント、そしてコードを直接読むことをお勧めします。それではみなさん頑張ってください！
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=DeveloperGuide.ja.md

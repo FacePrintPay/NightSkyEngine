@@ -19,3 +19,5 @@ Currently the Connection Manager abstraction interface only has ip based connect
 ## Licensing
 
 GGPO is available under The MIT License. This means GGPO is free for commercial and non-commercial use. Attribution is not required, but appreciated. 
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
